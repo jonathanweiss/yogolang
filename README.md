@@ -18,7 +18,7 @@ Next, install this generator:
 ```bash
 npm install --global generator-golang-project
 # or, with yarn
-yarn global add yo
+yarn global add generator-golang-project
 ```
 
 ## Usage
